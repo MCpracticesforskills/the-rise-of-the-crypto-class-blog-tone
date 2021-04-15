@@ -1,0 +1,60 @@
+body {
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+h1 {
+  text-align: center;
+  font-family: "Hind", sans-serif, bold 700;
+  font-size: 100px;
+  padding-bottom: 100x;
+  padding-top: 100px;
+  color: #f46389;
+}
+h2 {
+  padding-top: 50px;
+  font-family: "Hind", sans-serif, bold 450;
+  font-size: 45px;
+  font-size: 65px;
+  text-align: center;
+  color: #c671f2;
+  line-height: 2;
+}
+h3 {
+  padding-top: 50px;
+  padding-left: 55px;
+  font-size: 45px;
+  font-family: "Hind", sans-serif;
+  text-align: center;
+  color: #c671f2;
+  line-height: 2;
+}
+p {
+  padding: 55px;
+  font-family: "Arvo", serif;
+  line-height: 3;
+}
+.guide {
+  font-family: "Arvo", serif;
+  padding: 50px;
+  padding-left: 55px;
+  line-height: 3;
+  font-size: 30px;
+}
+.power {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.crypto {
+  color: blueviolet;
+}
+.end-links {
+  padding-top: 100px;
+}
+p {
+  font-size: 25px;
+}
+.humor {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
